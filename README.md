@@ -84,6 +84,3 @@ Interactive Power BI dashboard showing churn behavior and revenue impact.
 
 ## 📌 Conclusion
 This project demonstrates a complete analytics workflow from raw data to business insights, showcasing practical use of Excel, SQL, and Power BI for churn analysis.
-
-
-## 📁 Repository Structure
